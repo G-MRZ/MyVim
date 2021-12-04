@@ -6,8 +6,8 @@ set nocompatible
 set helplang=cn
 
 "配色风格
-colorscheme gruvbox 
-set background=dark
+" colorscheme gruvbox 
+" set background=dark
 
 "命令历史记录次数
 set history=30
