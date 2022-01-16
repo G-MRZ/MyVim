@@ -1,4 +1,7 @@
 {
-    "coc.preferences.formatOnSaveFiletypes": ["json"],
-    "prettier.tabWidth": 4
+    "coc.preferences.formatOnSaveFiletypes": ["json", "html", "css", "javascript", "vue"], // 保存自动格式化文件
+    "prettier.tabWidth": 4,
+    "prettier.singleQuote": true,
+    "prettier.printWidth": 120,
+    "vetur.format.options.tabSize": 4
 }
